@@ -5,9 +5,6 @@ public class LinearSearch {
         // Create Scanner for reading user input
         Scanner scanner = new Scanner(System.in);
 
-        // Display section header
-        System.out.println("=== LINEAR SEARCH ===");
-
         // Create and initialize the array with 10 predefined integers
         int[] arr = {23, 45, 12, 67, 34, 89, 56, 78, 90, 33};
 
