@@ -1,8 +1,5 @@
 public class SumOfEvenNumbers {
     public static void main(String[] args) {
-        // Display section header
-        System.out.println("=== SUM OF EVEN NUMBERS (1 to 100) ===");
-
         // Variables to accumulate the sum and count of even numbers
         int sum = 0;    // Accumulator to store the running sum
         int count = 0;  // Counter for even numbers found
