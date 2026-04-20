@@ -1,6 +1,5 @@
 public class PatternPrinting {
     public static void main(String[] args) {
-
         // ===== Pattern 1: Increasing stars =====
         // *
         // **
@@ -8,7 +7,6 @@ public class PatternPrinting {
         // ****
         // *****
         System.out.println("Pattern 1:");
-
         // Outer loop: controls the number of rows (1 to 5)
         for (int i = 1; i <= 5; i++) {
             // Inner loop: prints 'i' stars on each row
@@ -28,7 +26,6 @@ public class PatternPrinting {
         // **
         // *
         System.out.println("Pattern 2:");
-
         // Outer loop: controls the number of rows (5 down to 1)
         for (int i = 5; i >= 1; i--) {
             // Inner loop: prints 'i' stars on each row
